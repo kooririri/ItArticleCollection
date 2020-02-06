@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">共有IT記事</string>
+    <string name="btn_new">新規登録</string>
+    <string name="btn_save">保存</string>
+    <string name="input_title">記事タイトル</string>
+    <string name="input_url">記事のURL</string>
+    <string name="input_comment">記事へのコメント</string>
+    <string name="text_new_article">新規記事登録</string>
+    <string name="txdetail">詳細情報</string>
+</resources>
